@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d471fa;
+  background: #820bcb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2563,7 +2563,7 @@ ul.breadcrumb li + li:last-child {
 }
 body {
   background-color: #fff;
-  background: url("/images/bg/bg_05.webp");
+  background: url("https://pic.downk.cc/item/5f11752014195aa5940c8024.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -2608,4 +2608,7 @@ pre code {
 }
 .sidebar-inner {
   color: #000;
+}
+.btn {
+  border: 0px;
 }
