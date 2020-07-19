@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #eb2685;
+  background: #03ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2563,7 +2563,7 @@ ul.breadcrumb li + li:last-child {
 }
 body {
   background-color: #fff;
-  background: url("https://pic.downk.cc/item/5f11752014195aa5940c8024.jpg");
+  background: url("https://gitee.com/Ragvivsw/BlogpicbyPG/raw/master/2007/bg-miku1.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
